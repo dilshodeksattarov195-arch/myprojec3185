@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesender",
+        "uuid": 2270905,
+        "checksum": "mnvkae"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
